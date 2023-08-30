@@ -18,3 +18,20 @@ h3 {
 p {
   font-size: 1em;
 }
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border: 1px solid rgb(107, 75, 247);
+}
+
+td {
+  border: 1px solid rgb(106, 21, 99);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+tr {
+  background-color: cadetblue;
+}
