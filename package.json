@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "d3": "^7.8.5",
+    "d3-color": "^3.1.0",
+    "d3-selection": "^3.0.0",
+    "d3-webpack-loader": "^0.1.1",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "interactive-data-vis-fall2023",
+  "description": "Course material for Interactive Data Visualization (DATA 73200) taught at CUNY Fall Semester, 2023. This repository contains the starter code for each of the tutorials on the `/main` branch, the code built in live coding sessions from class will be released each week on the `/class` branch, and demo code (which includes additional helpful code for the tutorial) will be released after the class on the `/demo` branch.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
