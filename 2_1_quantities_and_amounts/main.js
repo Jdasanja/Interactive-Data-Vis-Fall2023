@@ -14,7 +14,7 @@ d3.csv('../data/MoMA_topTenNationalities.csv', d3.autoType)
     /** This is where you should define your scales from data to pixel space */
     const xScale = d3.scaleLinear() 
     .domain([0, 1500])
-    .range([width,0])
+    .range([0, width])
     
             
     const yScale = d3.scaleBand() 
@@ -42,7 +42,7 @@ d3.csv('../data/MoMA_topTenNationalities.csv', d3.autoType)
     .attr("x", 0)
     .attr("y", d => yScale(d.Nationality))
     .attr("height", yScale.bandwidth()) // Set the width based on scale bandwidth
-    .attr("width", d => width - xScale(d.Count))
+    .attr("width", d => xScale(d.Count))
     .style("fill", color); 
 
      // x-axis scale
