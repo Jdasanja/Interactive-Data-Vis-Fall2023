@@ -4,10 +4,10 @@ height = window.innerHeight * 0.7,
 margin = { top: 20, bottom: 50, left: 100, right: 60 };
 
 /* LOAD DATA */
-d3.csv('../data/New_York_City_Leading_Causes_of_Death.csv', d => {
+d3.csv('../data/Total_Deaths_NYC.csv', d => {
 return {
-  Year: new Date(+d.Year, 0, 1), // Remove commas from Year,
-  //Year: +d.Year, 
+  //Year: new Date(+d.Year, 0, 1), // Remove commas from Year,
+  Year: +d.Year, 
   Deaths: +d.Deaths
 }
 }).then(data => {
