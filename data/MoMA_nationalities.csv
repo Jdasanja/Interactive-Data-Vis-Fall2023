@@ -1,120 +1,120 @@
-Nationality,Count
-American,5181
-German,965
-British,860
-French,847
-Italian,536
-Japanese,507
-Swiss,297
-Dutch,274
-Russian,262
-Austrian,239
-Canadian,189
-Brazilian,167
-Unknown,161
-Spanish,157
-Argentine,142
-Mexican,135
-Polish,131
-Swedish,128
-Danish,121
-Chinese,101
-Belgian,96
-Czech,78
-Israeli,75
-Chilean,70
-South African,67
-Cuban,64
-Venezuelan,62
-Finnish,62
-Australian,55
-Colombian,54
-Hungarian,53
-Norwegian,49
-Indian,39
-Peruvian,39
-Croatian,34
-Korean,31
-Irish,24
-Uruguayan,23
-Turkish,20
-Scottish,20
-Romanian,19
-Haitian,17
-Slovenian,17
-Serbian,16
-New Zealander,16
-Ukrainian,13
-Icelandic,12
-Egyptian,11
-Iranian,11
-Greek,11
-Portuguese,10
-Native American,10
-Lebanese,9
-Slovak,8
-Puerto Rican,7
-Guatemalan,7
-Bosnian,6
-Moroccan,6
-Georgian,6
-Congolese,6
-Nigerian,6
-Vietnamese,5
-Taiwanese,5
-Bulgarian,5
-Zimbabwean,5
-Czechoslovakian,5
-Macedonian,4
-Ecuadorian,4
-Pakistani,4
-Palestinian,4
-Bolivian,3
-Estonian,3
-Algerian,3
-Lithuanian,3
-Albanian,3
-Luxembourger,3
-Filipino,3
-Welsh,3
-Latvian,3
-Canadian Inuit,3
-Malian,3
-Ghanaian,3
-Ethiopian,2
-Nicaraguan,2
-Namibian,2
-Iraqi,2
-Tunisian,2
-Senegalese,2
-Sudanese,2
-Emirati,2
-Kyrgyz,2
-Singaporean,2
-Thai,2
-Costa Rican,2
-Cameroonian,2
-Azerbaijani,2
-Salvadoran,2
-Malaysian,2
-Panamanian,2
-Paraguayan,2
-Ivorian,1
-Ugandan,1
-Cambodian,1
-Cypriot,1
-Sierra Leonean,1
-Coptic,1
-Yugoslav,1
-Mozambican,1
-Persian,1
-Bahamian,1
-Bangladeshi,1
-Sahrawi,1
-Burkinabé,1
-Catalan,1
-Afghan,1
-Tanzanian,1
-Kenyan,1
-Beninese,1
-Kuwaiti,1
+Nationality,Country,Count
+American,United States,5181
+German,Germany,965
+British,United Kingdom,860
+French,France,847
+Italian,Italy,536
+Japanese,Japan,507
+Swiss,Switzerland,297
+Dutch,Netherlands,274
+Russian,Russia,262
+Austrian,Austria,239
+Canadian,Canada,189
+Brazilian,Brazil,167
+Unknown,Unknown,161
+Spanish,Spain,157
+Argentine,Argentina,142
+Mexican,Mexico,135
+Polish,Poland,131
+Swedish,Sweden,128
+Danish,Denmark,121
+Chinese,China,101
+Belgian,Belgium,96
+Czech,Czech Republic,78
+Israeli,Israel,75
+Chilean,Chile,70
+South African,South Africa,67
+Cuban,Cuba,64
+Venezuelan,Venezuela,62
+Finnish,Finland,62
+Australian,Australia,55
+Colombian,Colombia,54
+Hungarian,Hungary,53
+Norwegian,Norway,49
+Indian,India,39
+Peruvian,Peru,39
+Croatian,Croatia,34
+Korean,"Korea (South or North, specify as appropriate)",31
+Irish,Ireland,24
+Uruguayan,Uruguay,23
+Turkish,Turkey,20
+Scottish,Scotland,20
+Romanian,Romania,19
+Haitian,Haiti,17
+Slovenian,Slovenia,17
+Serbian,Serbia,16
+New Zealander,New Zealand,16
+Ukrainian,Ukraine,13
+Icelandic,Iceland,12
+Egyptian,Egypt,11
+Iranian,Iran,11
+Greek,Greece,11
+Portuguese,Portugal,10
+Native American,United States (Native American),10
+Lebanese,Lebanon,9
+Slovak,Slovakia,8
+Puerto Rican,Puerto Rico,7
+Guatemalan,Guatemala,7
+Bosnian,Bosnia and Herzegovina,6
+Moroccan,Morocco,6
+Georgian,Georgia,6
+Congolese,Democratic Republic of the Congo or Republic of the Congo (specify as appropriate),6
+Nigerian,Nigeria,6
+Vietnamese,Vietnam,5
+Taiwanese,Taiwan,5
+Bulgarian,Bulgaria,5
+Zimbabwean,Zimbabwe,5
+Czechoslovakian,Czech Republic (formerly Czechoslovakia),5
+Macedonian,North Macedonia,4
+Ecuadorian,Ecuador,4
+Pakistani,Pakistan,4
+Palestinian,State of Palestine,4
+Bolivian,Bolivia,3
+Estonian,Estonia,3
+Algerian,Algeria,3
+Lithuanian,Lithuania,3
+Albanian,Albania,3
+Luxembourger,Luxembourg,3
+Filipino,Philippines,3
+Welsh,Wales,3
+Latvian,Latvia,3
+Canadian Inuit,Canada (Inuit),3
+Malian,Mali,3
+Ghanaian,Ghana,3
+Ethiopian,Ethiopia,2
+Nicaraguan,Nicaragua,2
+Namibian,Namibia,2
+Iraqi,Iraq,2
+Tunisian,Tunisia,2
+Senegalese,Senegal,2
+Sudanese,Sudan,2
+Emirati,United Arab Emirates,2
+Kyrgyz,Kyrgyzstan,2
+Singaporean,Singapore,2
+Thai,Thailand,2
+Costa Rican,Costa Rica,2
+Cameroonian,Cameroon,2
+Azerbaijani,Azerbaijan,2
+Salvadoran,El Salvador,2
+Malaysian,Malaysia,2
+Panamanian,Panama,2
+Paraguayan,Paraguay,2
+Ivorian,Ivory Coast (C�te d'Ivoire),1
+Ugandan,Uganda,1
+Cambodian,Cambodia,1
+Cypriot,Cyprus,1
+Sierra Leonean,Sierra Leone,1
+Coptic,Coptic diaspora (no specific country),1
+Yugoslav,Yugoslavia (no longer exists),1
+Mozambican,Mozambique,1
+Persian,Iran,1
+Bahamian,The Bahamas,1
+Bangladeshi,Bangladesh,1
+Sahrawi,Sahrawi Arab Democratic Republic or Western Sahara (disputed territory),1
+Burkinabé,Burkina Faso,1
+Catalan,Catalonia (Spain),1
+Afghan,Afghanistan,1
+Tanzanian,Tanzania,1
+Kenyan,Kenya,1
+Beninese,Benin,1
+Kuwaiti,Kuwait,1
