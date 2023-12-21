@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Interactive Data Visualization Final Project</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro">
+</head>
+<body class=".bg-info">
+  <div class="col-md-12 text-center">
+    <div id="title-container" class="mt-4">
+        <h1>Artistry in Regions: Dynamic Visualization and Analysis of MOMA Artists' Data</h1>
+        <p class="mb-3">
+            The Museum of Modern Art, located in New York City, consists of primarily American and European art ranging through the nineteenth century. It was founded in 1929 with the goal of displaying the most progressive tendencies in modern art. The museum initially began with a gift of eight prints and has since expanded to approximately 200,000 paintings, sculptures, drawings, prints, photographs, and mixed media works. The Museum’s Library and Archives are considered to have the greatest concentration of research material on modern art in the world. Given MOMA’s pivotal role as a cultural reference, it is important to underscore the need for diversity within the collection. MOMA has a responsibility to represent global creativity. Advocating for diversity ensures a multitude of perspectives and styles are represented. In doing so, MOMA can continue to inspire and engage audiences.
+        </p>
+        <h4 class="mb-3">
+            The following descriptive analysis presents a series of univariate visualizations and descriptive tables. These visuals highlight the disproportionate number of western artists in comparison to non-western artists. These interactive visualizations also allow for the user to see how the collection differs based on century.
+        </h4>
+    </div>
+    </div>
+    <div class="container">
+        <!-- Artist Birthplace By Continent -->
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Artist Birthplace By Continent</h3>
+                <div id="description-container" class="mt-4 text-left">
+                    <p>The first visual presents a bar graph that delineates the distribution of artists based on their continent of birth. Overall, the data indicates a prevalence of North American artists. However, when examining different temporal intervals, Europe seems to constitute the majority of the collection between the eighteenth and nineteenth centuries. However, there is a discernible shift in the twentieth century as North American artists become much more prevalent. Conversely, there seems to be a noticeable lack of African art in the MOMA collection during the eighteenth and nineteenth centuries, indicative of a historical underrepresentation. Nevertheless, this pattern undergoes a significant change when analyzing the twentieth century collection. There seems to be an appreciable augmentation in both South American and African artist contribution. Complimentary to the bar graph, a filtering mechanism appears below which produces a table, affording the precise artist count from each continent.</p>
+                </div>
+                <label for="dropdown">Date Range</label>
+                <select id="dropdown" name="dropdown"  class="small-dropdown">
+                    <option selected>All</option>
+                    <option>0-1799</option>
+                    <option>1800-1899</option>
+                    <option>1900-1999</option>
+                    <option>2000-2023</option>
+                </select>
+                <div id="container"></div>
+            </div>
+        </div>
+
+        <!-- Count of Artists Born in Each Continent -->
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Count of Artists Born in Each Continent</h3>
+                <label for="dropdowntext">Date Range</label>
+                <select id="dropdowntext" name="dropdowntext" class="small-dropdown">
+                    <option selected>All</option>
+                    <option>0-1799</option>
+                    <option>1800-1899</option>
+                    <option>1900-1999</option>
+                    <option>2000-2023</option>
+                </select>
+                <div id="containertext"></div>
+            </div>
+        </div>
+
+        <!-- Western Vs. NonWestern -->
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Western Vs. NonWestern</h3>
+                <div id="description-western-nw" class="mt-4 text-left">
+                    <p>An additional bar graph was used to further highlight the high disproportion between Western and Non-Western artists. Intriguingly, there seems to be a greater prevalence of non-Western artists during the eighteenth century in comparison to the nineteenth century. Moreover, a notable surge in both Western and Non-Western artists transitioning from the nineteenth to the twentieth century. Regardless, there still appears to be a substantial discrepancy between the two categories. Like the previous graph, there is a filter below this graph that gives a more exact count of artists born in Western and Non-Western regions.</p>
+                </div>
+                <label for="dropdowntwo">Date Range</label>
+                <select id="dropdowntwo" name="dropdowntwo" class="small-dropdown">
+                    <option selected>All</option>
+                    <option>0-1799</option>
+                    <option>1800-1899</option>
+                    <option>1900-1999</option>
+                    <option>2000-2023</option>
+                </select>
+                <div id="containertwo"></div>
+            </div>
+        </div>
+
+        <!-- Count of Artists Born in Western and NonWestern Regions -->
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Count of Artists Born in Western and NonWestern Regions</h3>
+                <label for="dropdowntextwo">Date Range</label>
+                <select id="dropdowntextwo" name="dropdowntextwo" class="small-dropdown">
+                    <option selected>All</option>
+                    <option>0-1799</option>
+                    <option>1800-1899</option>
+                    <option>1900-1999</option>
+                    <option>2000-2023</option>
+                </select>
+                <div id="containertextwo"></div>
+            </div>
+        </div>
+
+        <!-- Geographic Visualization of Artist Birthplace -->
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Geographic Visualization of Artist Birthplace</h3>
+                <div id="description-geographic" class="mt-4 text-left">
+                    <p>The geographic visualization offers a more detailed delineation of artist origins. Countries highlighted in green indicate the respective birthplace of each artist. Users also have the capability to observe temporal variations by century. There were a few insights that stood out in these visuals. Despite the lack of South American artists present during the eighteenth and nineteenth century, as indicated by the initial bar graph, a diverse range of South American countries is represented in the geographic map. The geographical representation aligns with the initial bar graph, when analyzing the representation of artists from African origin during the twentieth century. When observing the geographic depiction of the contemporary century, it seems like most artists emanate from European or North American countries. While many of these artists are collaborative groups coming from multiple countries, a noticeable and stark difference persists between western nations and non-western nations.</p>
+                </div>
+                <label for="dropdownthree">Date Range</label>
+                <select id="dropdownthree" name="dropdownthree" class="small-dropdown">      
+                    <option selected>All</option>
+                    <option>0-1799</option>
+                    <option>1800-1899</option>
+                    <option>1900-1999</option>
+                    <option>2000-2023</option>
+                </select>
+                <div id="containerthree"></div>
+            </div>
+        </div>
+     </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="../lib/d3.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="main.js"></script>
+</body>
+</html>

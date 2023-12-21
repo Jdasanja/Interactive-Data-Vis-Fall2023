@@ -1,0 +1,29 @@
+.small-dropdown {
+  width: 120px; /* Adjust the width as needed */
+}
+
+body {
+  background: linear-gradient(to bottom, #87CEEB, #f0f0f0); /* light-blue to off-white gradient */
+  margin: 0; /* remove default body margin */
+  font-family: Arial, sans-serif; /* specify a fallback font */
+}
+
+h1 {
+  font-size: 3em;
+  margin: 0.25em 0;
+}
+
+h3 {
+  font-size: 2em;
+  margin: 0.25em 0;
+}
+
+p {
+  font-size: 1em;
+}
+
+td, th {
+  padding: 1px 4px;
+  border: 1px solid #000;
+}
+

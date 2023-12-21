@@ -1,0 +1,9 @@
+Region,DateRange,Continent_Count_By_Date_Range
+West,0-1799,1882
+NonWest,0-1799,282
+West,1800-1899,1881
+NonWest,1800-1899,179
+West,1900-1999,7805
+NonWest,1900-1999,1482
+West,2000-2023,64
+NonWest,2000-2023,13

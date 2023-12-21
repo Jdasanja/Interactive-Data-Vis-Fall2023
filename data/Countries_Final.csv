@@ -1,0 +1,236 @@
+Country,Count,DateRange
+Israel,7,0-1799
+France,130,0-1799
+United States of America,780,0-1799
+United Kingdom,161,0-1799
+Russia,45,0-1799
+Italy,188,0-1799
+Japan,134,0-1799
+Argentina,24,0-1799
+Germany,211,0-1799
+Switzerland,54,0-1799
+Iceland,1,0-1799
+Netherlands,44,0-1799
+Poland,11,0-1799
+Sweden,42,0-1799
+Slovakia,1,0-1799
+Greece,2,0-1799
+Brazil,12,0-1799
+Cuba,11,0-1799
+Mexico,18,0-1799
+China,18,0-1799
+Australia,7,0-1799
+Hungary,10,0-1799
+Belgium,8,0-1799
+Spain,24,0-1799
+Finland,32,0-1799
+Nicaragua,1,0-1799
+Canada,28,0-1799
+Estonia,2,0-1799
+Czech Republic,11,0-1799
+Tunisia,1,0-1799
+Norway,10,0-1799
+Austria,24,0-1799
+Denmark,44,0-1799
+Peru,2,0-1799
+Haiti,4,0-1799
+Yugoslavia,2,0-1799
+Korea,1,0-1799
+Czechoslovakia,6,0-1799
+Colombia,3,0-1799
+Taiwan,1,0-1799
+Slovenia,2,0-1799
+Latvia,1,0-1799
+Thailand,1,0-1799
+Romania,2,0-1799
+United Arab Emirates,1,0-1799
+India,2,0-1799
+Scotland,2,0-1799
+Turkey,1,0-1799
+Puerto Rico,6,0-1799
+Portugal,2,0-1799
+South Africa,7,0-1799
+Namibia,1,0-1799
+Egypt,2,0-1799
+Botswana,1,0-1799
+Croatia,6,0-1799
+Chile,7,0-1799
+Venezuela,3,0-1799
+Serbia,1,0-1799
+Iran,1,0-1799
+France,394,1800-1899
+United Kingdom,163,1800-1899
+United States of America,637,1800-1899
+Sweden,15,1800-1899
+Finland,5,1800-1899
+Palestine,1,1800-1899
+Poland,18,1800-1899
+Germany,282,1800-1899
+Italy,65,1800-1899
+Switzerland,48,1800-1899
+Spain,19,1800-1899
+Austria,60,1800-1899
+Israel,7,1800-1899
+Argentina,9,1800-1899
+Russia,110,1800-1899
+Netherlands,42,1800-1899
+Ukraine,9,1800-1899
+Hungary,15,1800-1899
+Chile,3,1800-1899
+Czech Republic,15,1800-1899
+Brazil,9,1800-1899
+Mexico,19,1800-1899
+Peru,5,1800-1899
+Belgium,26,1800-1899
+Uruguay,4,1800-1899
+Japan,26,1800-1899
+Canada,11,1800-1899
+Australia,2,1800-1899
+Iceland,1,1800-1899
+Norway,7,1800-1899
+Haiti,2,1800-1899
+Guatemala,1,1800-1899
+Cuba,3,1800-1899
+Ireland,3,1800-1899
+Bulgaria,1,1800-1899
+Denmark,9,1800-1899
+Turkey,1,1800-1899
+Serbia,1,1800-1899
+Scotland,3,1800-1899
+Georgia,4,1800-1899
+Latvia,1,1800-1899
+Colombia,1,1800-1899
+Venezuela,1,1800-1899
+Romania,1,1800-1899
+Greece,1,1800-1899
+United States of America,4123,1900-1999
+Spain,121,1900-1999
+Denmark,102,1900-1999
+Italy,418,1900-1999
+Estonia,1,1900-1999
+Mexico,99,1900-1999
+Sweden,92,1900-1999
+France,351,1900-1999
+Finland,52,1900-1999
+Poland,100,1900-1999
+Japan,404,1900-1999
+United Kingdom,586,1900-1999
+Guatemala,6,1900-1999
+Colombia,54,1900-1999
+Romania,16,1900-1999
+Israel,61,1900-1999
+Germany,566,1900-1999
+Argentina,111,1900-1999
+Kuwait,1,1900-1999
+Belgium,66,1900-1999
+Netherlands,209,1900-1999
+Norway,33,1900-1999
+Chile,60,1900-1999
+CostaRica,2,1900-1999
+Czech Republic,57,1900-1999
+Brazil,147,1900-1999
+Austria,161,1900-1999
+Canada,163,1900-1999
+Russia,120,1900-1999
+Australia,48,1900-1999
+Switzerland,218,1900-1999
+Haiti,11,1900-1999
+Congo,6,1900-1999
+Bolivia,3,1900-1999
+Cuba,50,1900-1999
+Slovenia,16,1900-1999
+Portugal,8,1900-1999
+India,37,1900-1999
+Peru,32,1900-1999
+Ireland,20,1900-1999
+Croatia,29,1900-1999
+Uruguay,20,1900-1999
+Venezuela,58,1900-1999
+Hungary,28,1900-1999
+China,80,1900-1999
+Turkey,18,1900-1999
+Greece,8,1900-1999
+Panama,2,1900-1999
+Iceland,11,1900-1999
+Algeria,3,1900-1999
+Ecuador,4,1900-1999
+South Africa,63,1900-1999
+Iran,11,1900-1999
+Korea,30,1900-1999
+Serbia,14,1900-1999
+Paraguay,2,1900-1999
+Ukraine,4,1900-1999
+Luxembourg,3,1900-1999
+Zimbabwe,5,1900-1999
+Morocco,6,1900-1999
+Nicaragua,1,1900-1999
+Tanzania,1,1900-1999
+Sudan,2,1900-1999
+Taiwan,5,1900-1999
+Ethiopia,2,1900-1999
+Latvia,2,1900-1999
+Republic of Azerbaijan,2,1900-1999
+Senegal,2,1900-1999
+Thailand,2,1900-1999
+New Zealand,14,1900-1999
+Scotland,15,1900-1999
+Lithuania,3,1900-1999
+Pakistan,4,1900-1999
+Bahamas,1,1900-1999
+Bulgaria,4,1900-1999
+Bosnia,6,1900-1999
+Mali,3,1900-1999
+Egypt,10,1900-1999
+Kenya,1,1900-1999
+Nigeria,6,1900-1999
+Georgia,2,1900-1999
+Cyprus,1,1900-1999
+Albania,3,1900-1999
+Slovakia,7,1900-1999
+CÃ´ted'Ivoire,1,1900-1999
+Malaysia,2,1900-1999
+Singapore,2,1900-1999
+Namibia,1,1900-1999
+Cambodia,1,1900-1999
+Ghana,3,1900-1999
+Afghanistan,1,1900-1999
+Lebanon,9,1900-1999
+Kyrgyzstan,2,1900-1999
+Vietnam,5,1900-1999
+Uganda,1,1900-1999
+Cameroon,2,1900-1999
+Tunisia,1,1900-1999
+Wales,3,1900-1999
+Catalonia,1,1900-1999
+Philippines,3,1900-1999
+Palestine,3,1900-1999
+Macedonia,4,1900-1999
+The Sahrawi Arab Democratic Republic,1,1900-1999
+Mozambique,1,1900-1999
+Puerto Rico,2,1900-1999
+Bangladesh,1,1900-1999
+BurkinaFaso,1,1900-1999
+Benin,1,1900-1999
+Sierra Leone,1,1900-1999
+El Salvador,2,1900-1999
+United Arab Emirates,1,1900-1999
+Iraq,2,1900-1999
+France,3,2000-2023
+United States of America,26,2000-2023
+Norway,2,2000-2023
+South Africa,1,2000-2023
+United Kingdom,12,2000-2023
+Netherlands,7,2000-2023
+Sweden,3,2000-2023
+Canada,2,2000-2023
+Japan,3,2000-2023
+Germany,3,2000-2023
+Denmark,2,2000-2023
+New Zealand,2,2000-2023
+China,3,2000-2023
+England,1,2000-2023
+Poland,2,2000-2023
+Vietnam,1,2000-2023
+Korea,1,2000-2023
+Russia,2,2000-2023
+Ireland,1,2000-2023
