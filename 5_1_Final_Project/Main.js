@@ -19,7 +19,7 @@ let state = {
 
 
 /* LOAD DATA */
-d3.csv('../data/Continent.csv', d3.autoType).then(raw_data => {
+d3.csv('../data/Continents_Final.csv', d3.autoType).then(raw_data => {
   console.log("data", raw_data);
   // save our data to application state
   state.data = raw_data;
