@@ -1,7 +1,11 @@
+.small-dropdown {
+  width: 120px; /* Adjust the width as needed */
+}
+
 body {
-  font-family: "Source Sans Pro", sans-serif;
-  font-size: 16px;
-  padding: 1em;
+  background: linear-gradient(to bottom, #87CEEB, #f0f0f0); /* light-blue to off-white gradient */
+  margin: 0; /* remove default body margin */
+  font-family: Arial, sans-serif; /* specify a fallback font */
 }
 
 h1 {
@@ -18,11 +22,8 @@ p {
   font-size: 1em;
 }
 
-#tooltip {
-  display: block;
-  height: 50px;
+td, th {
+  padding: 1px 4px;
+  border: 1px solid #000;
 }
 
-path.state {
-  stroke: black;
-}
